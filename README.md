@@ -1,2 +1,2 @@
-# Palindroms
+# Palindromes
 # Palindromes
